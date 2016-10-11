@@ -7,7 +7,7 @@ Nama field,Type,Length/value = nama,TEXT,
                                passw,VARCHAR,8
                                nilai,FLOAT,
 
-isi field (nama, nis, passw, nilai) = yosua, 0001, 08101996, 0
+Isi field (nama, nis, passw, nilai) = yosua, 0001, 08101996, 0
                                       andre, 0002, 28091997, 0
                                       chandra, 0003, 03031996, 0
                                       arman, 0004, 25121996, 0
