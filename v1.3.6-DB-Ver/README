@@ -1,0 +1,14 @@
+Nama database = mydatabase
+
+Nama table = nilaiipa1
+
+Nama field,Type,Length/value = nama,TEXT,
+                               nis,VARCHAR,4
+                               passw,VARCHAR,8
+                               nilai,FLOAT,
+                               stats,TEXT,
+
+Isi field (nama, nis, passw, nilai) = yosua, 0001, 08101996, -1, off
+                                      andre, 0002, 28091997, -1, off
+                                      chandra, 0003, 03031996, -1, off
+                                      arman, 0004, 25121996, -1, off
