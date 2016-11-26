@@ -4,15 +4,3 @@ Update:
 Format database:
 Nama database = mydatabase
 
-Nama table = nilaiipa1
-
-Nama field,Type,Length/value = nama, TEXT,
-                               nis, VARCHAR, 4
-                               passw, VARCHAR, 8
-                               nilai, FLOAT,
-                               stats, BOOLEAN,
-
-Isi field (nama, nis, passw, nilai) = yosua, 0001, 08101996, -1, 0
-                                      andre, 0002, 28091997, -1, 0
-                                      chandra, 0003, 03031996, -1, 0
-                                      arman, 0004, 25121996, -1, 0
